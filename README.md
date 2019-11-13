@@ -63,7 +63,7 @@ CREATE TABLE reply(
 <https://blog.naver.com/nomearod21/221681377492>
 
 #### 4. 부트스트랩 커스터마이징 HTML파일
-WebContent/ui_sample/**
+WebContent/
 
 #### 5. 실행 영상
 -youtube주소 : -
