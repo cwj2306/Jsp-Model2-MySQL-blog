@@ -66,4 +66,4 @@ CREATE TABLE reply(
 WebContent/
 
 #### 5. 실행 영상
--youtube주소 : -
+<https://blog.naver.com/nomearod21/221706730678>
